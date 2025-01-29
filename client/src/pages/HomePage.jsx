@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import Sidebar from '../component/Sidebar';
 import { useMatchStore } from '../store/useMatchStore';
 import SwipArea from '../component/SwipArea';
-import SwipFeedBack from '../component/SwipFeedBack';
+import SwipFeedBack from '../component/SwipFeedback';
 import { Frown } from 'lucide-react';
 import { Header } from '../component/Header';
 import { useAuthStore } from '../store/useAuthStore';
