@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Sidebar from '../component/SideBar';
+import Sidebar from '../component/Sidebar';
 import { useMatchStore } from '../store/useMatchStore';
 import SwipArea from '../component/SwipArea';
 import SwipFeedBack from '../component/SwipFeedBack';
